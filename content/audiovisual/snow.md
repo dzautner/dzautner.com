@@ -9,6 +9,6 @@ tags:
 - Video
 ---
 
-{{< youtube id="Uo2FQJwYu9E" autoplay="true" >}}
+{{< youtube id="Uo2FQJwYu9E" >}}
 
 Instruments laid out using Ableton and sequenced using [Orca](https://github.com/hundredrabbits/Orca)

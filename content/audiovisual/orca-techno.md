@@ -9,6 +9,6 @@ tags:
 - Video
 ---
 
-{{< youtube id="lNi8IKYLc-o" autoplay="true" >}}
+{{< youtube id="lNi8IKYLc-o" >}}
 
 Techno jam using [Orca](https://github.com/hundredrabbits/Orca)
