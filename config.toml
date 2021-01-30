@@ -1,0 +1,25 @@
+baseURL = "http://dzautner.com/"
+languageCode = "en-us"
+title = "///dzautner"
+theme = "hugo-theme-console"
+
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
+  
+  [[params.navlinks]]
+  name = "audio+visual/"
+  url = "audiovisual/"
+  
+  [[params.navlinks]]
+  name = "photography/"
+  url = "photography/"
+
+  [[params.navlinks]]
+  name = "research/"
+  url = "research/"
