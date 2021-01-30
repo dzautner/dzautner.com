@@ -1,1 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on ///dzautner</title><link>http://dzautner.com/tags/</link><description>Recent content in Tags on ///dzautner</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Jan 2021 15:37:48 +0200</lastBuildDate><atom:link href="http://dzautner.com/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Music</title><link>http://dzautner.com/tags/music/</link><pubDate>Sat, 30 Jan 2021 15:37:48 +0200</pubDate><guid>http://dzautner.com/tags/music/</guid><description/></item><item><title>Video</title><link>http://dzautner.com/tags/video/</link><pubDate>Sat, 30 Jan 2021 15:37:48 +0200</pubDate><guid>http://dzautner.com/tags/video/</guid><description/></item><item><title>Data</title><link>http://dzautner.com/tags/data/</link><pubDate>Sat, 29 Oct 2016 15:37:48 +0200</pubDate><guid>http://dzautner.com/tags/data/</guid><description/></item><item><title>Geopolitics</title><link>http://dzautner.com/tags/geopolitics/</link><pubDate>Sat, 29 Oct 2016 15:37:48 +0200</pubDate><guid>http://dzautner.com/tags/geopolitics/</guid><description/></item><item><title>Research</title><link>http://dzautner.com/tags/research/</link><pubDate>Sat, 29 Oct 2016 15:37:48 +0200</pubDate><guid>http://dzautner.com/tags/research/</guid><description/></item><item><title>Syria</title><link>http://dzautner.com/tags/syria/</link><pubDate>Sat, 29 Oct 2016 15:37:48 +0200</pubDate><guid>http://dzautner.com/tags/syria/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ///dzautner</title>
+    <link>https://dzautner.com/tags/</link>
+    <description>Recent content in Tags on ///dzautner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Jan 2021 15:37:48 +0200</lastBuildDate><atom:link href="https://dzautner.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music</title>
+      <link>https://dzautner.com/tags/music/</link>
+      <pubDate>Sat, 30 Jan 2021 15:37:48 +0200</pubDate>
+      
+      <guid>https://dzautner.com/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://dzautner.com/tags/video/</link>
+      <pubDate>Sat, 30 Jan 2021 15:37:48 +0200</pubDate>
+      
+      <guid>https://dzautner.com/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://dzautner.com/tags/data/</link>
+      <pubDate>Sat, 29 Oct 2016 15:37:48 +0200</pubDate>
+      
+      <guid>https://dzautner.com/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geopolitics</title>
+      <link>https://dzautner.com/tags/geopolitics/</link>
+      <pubDate>Sat, 29 Oct 2016 15:37:48 +0200</pubDate>
+      
+      <guid>https://dzautner.com/tags/geopolitics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://dzautner.com/tags/research/</link>
+      <pubDate>Sat, 29 Oct 2016 15:37:48 +0200</pubDate>
+      
+      <guid>https://dzautner.com/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syria</title>
+      <link>https://dzautner.com/tags/syria/</link>
+      <pubDate>Sat, 29 Oct 2016 15:37:48 +0200</pubDate>
+      
+      <guid>https://dzautner.com/tags/syria/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

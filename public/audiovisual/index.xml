@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Audiovisuals on ///dzautner</title><link>http://dzautner.com/audiovisual/</link><description>Recent content in Audiovisuals on ///dzautner</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Jan 2021 15:37:48 +0200</lastBuildDate><atom:link href="http://dzautner.com/audiovisual/index.xml" rel="self" type="application/rss+xml"/><item><title>Look at the Snow Falling</title><link>http://dzautner.com/audiovisual/snow/</link><pubDate>Sat, 30 Jan 2021 15:37:48 +0200</pubDate><guid>http://dzautner.com/audiovisual/snow/</guid><description>Instruments laid out using Ableton and sequenced using Orca</description></item><item><title>Orca Techno Jam</title><link>http://dzautner.com/audiovisual/orca-techno/</link><pubDate>Fri, 29 Jan 2021 15:37:48 +0200</pubDate><guid>http://dzautner.com/audiovisual/orca-techno/</guid><description>Techno jam using Orca</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audiovisuals on ///dzautner</title>
+    <link>https://dzautner.com/audiovisual/</link>
+    <description>Recent content in Audiovisuals on ///dzautner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Jan 2021 15:37:48 +0200</lastBuildDate><atom:link href="https://dzautner.com/audiovisual/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Look at the Snow Falling</title>
+      <link>https://dzautner.com/audiovisual/snow/</link>
+      <pubDate>Sat, 30 Jan 2021 15:37:48 +0200</pubDate>
+      
+      <guid>https://dzautner.com/audiovisual/snow/</guid>
+      <description>Instruments laid out using Ableton and sequenced using Orca</description>
+    </item>
+    
+    <item>
+      <title>Orca Techno Jam</title>
+      <link>https://dzautner.com/audiovisual/orca-techno/</link>
+      <pubDate>Fri, 29 Jan 2021 15:37:48 +0200</pubDate>
+      
+      <guid>https://dzautner.com/audiovisual/orca-techno/</guid>
+      <description>Techno jam using Orca</description>
+    </item>
+    
+  </channel>
+</rss>
