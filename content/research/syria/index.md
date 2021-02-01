@@ -72,9 +72,34 @@ Searching for any tweet in the collection that contain words related to TOW miss
 
 Each column in the chart represents a month. Every box in the the column is a separated video. The chart is interactive and you can press any entry to display the video linked to it:
 
-[Click here to open the chart in full view][4]
+<i>
+<a target="_blank" href="./towchart/">Click here to open the chart in full view</a>
+</i>
+
+<iframe id='chart' src="./towchart/" frameborder="0" style="overflow: hidden; width: 100%; " width="100%"></iframe>
+
+<script>
+ var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+  var eventer = window[eventMethod];
+  var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+  // Listen for a message from the iframe.
+  eventer(messageEvent, function(e) {
+    if (isNaN(e.data)) return;
+
+    // replace #sizetracker with what ever what ever iframe id you need
+    document.getElementById('chart').style.height = e.data + 55 + 'px';
+
+  }, false);
+  setInterval(function () {
+ document.getElementById('chart').contentWindow.postMessage('','*')
+  }, 500);
+
+  </script>
 
 *This is the first part in a series of articles attempting to analyse large streams of data from the Syrian civil war.* 
   
 
-[4]:	https://public.dzautner.com/towchart/
+
+
+
+

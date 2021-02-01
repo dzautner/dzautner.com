@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "///dzautner"
 theme = "hugo-theme-console"
 
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)

@@ -98,7 +98,7 @@ Located mostly in London, New York and Washington DC, this groups most common no
 While the strong membership from Washington DC might look suspicious to some, with few hundreds of members, the DC users compose 3.59% of the total sub-groups and contribute 2.9% of the total amount of tweets. In the top 10% most active users, only 34 (0.3%) users are from Washington DC, leading me to believe there is no strong indication of a “bot” network in this group.
 
 ##### Activity - Date Chart 
-![Pro-Opposition chart](http://public.dzautner.com/com0.png)
+![Pro-Opposition chart](./com0.png)
 
 A number of noticeable peaks in the activity chart correspond to specific events:
 
@@ -115,7 +115,7 @@ The 3rd largest group is a group consisting of users who report posting for Syri
 The group was mostly active during the early days of the war, when it still looked like a popular uprising inspired by the Arab spring, and not an international chess game.
 
 The community posts about human right violations by the regime, such as the previously mentioned shelling of Homs, and [the 2015 Douma Massacre](https://en.wikipedia.org/wiki/Douma_massacre_(2015)).
-![Syrians against the regime chart](http://public.dzautner.com/com3.png)
+![Syrians against the regime chart](./com3.png)
 
 ### Pro Kurdish and Government, Anti ISIS and Rebel. 
 ##### 2,488 members
@@ -131,7 +131,7 @@ The group trends the hashtag *“#twitterkurds”* but strongly follows notable 
 Based on the activity chart and the common topics discussed in the community, I am left assuming that this odd community was formed under shared hatred to ISIS more than anything else.
 
 ##### Activity Date Chart 
-![Pro Regime/Kurdish activity chart](http://public.dzautner.com/com4.png)
+![Pro Regime/Kurdish activity chart](./com4.png)
 
 * **October 10th, 2014 (885 tweets)**: Peak of the battle of [the Siege of Kobanî](https://en.wikipedia.org/wiki/Siege_of_Koban%C3%AE)
 * **October 18th, 2014 (841 tweets)**: Kurdish forces with assistance of American Air-Force airstrike managed to push ISIS out of Kobanî.
@@ -158,7 +158,7 @@ The group seems very strongly bound against the Regime, Russia, and the current 
 
 ##### Activity Date Chart 
 
-![Iranian Diaspora Activity Chart](http://public.dzautner.com/iran.png)
+![Iranian Diaspora Activity Chart](./iran.png)
 
 * **July 28th, 2016 (2,672 tweets)**: SAA forces capture the last road leading to rebel Aleppo, completely encircling the city. A major setback to the opposition.
 
