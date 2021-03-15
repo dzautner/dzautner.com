@@ -1,6 +1,6 @@
 ---
 title: "if you gonna burn down the earth, we gonna burn down the buildings"
-date: 2021-03-152T15:37:48+02:00
+date: 2021-03-15T15:37:48+02:00
 draft: false
 categories:
 - Art
