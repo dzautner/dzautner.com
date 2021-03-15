@@ -6,7 +6,16 @@
     <description>Recent content in Audiovisuals on ///dzautner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Feb 2021 15:37:48 +0200</lastBuildDate><atom:link href="https://dzautner.com/audiovisual/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Mar 2021 15:37:48 +0200</lastBuildDate><atom:link href="https://dzautner.com/audiovisual/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>if you gonna burn down the earth, we gonna burn down the buildings</title>
+      <link>https://dzautner.com/audiovisual/burn/</link>
+      <pubDate>Sun, 14 Mar 2021 15:37:48 +0200</pubDate>
+      
+      <guid>https://dzautner.com/audiovisual/burn/</guid>
+      <description>Instruments laid out using Ableton and sequenced using Orca</description>
+    </item>
+    
     <item>
       <title>Hoot</title>
       <link>https://dzautner.com/audiovisual/hoot/</link>
@@ -32,15 +41,6 @@
       
       <guid>https://dzautner.com/audiovisual/orca-techno/</guid>
       <description>Techno jam using Orca</description>
-    </item>
-    
-    <item>
-      <title>if you gonna burn down the earth, we gonna burn down the buildings</title>
-      <link>https://dzautner.com/audiovisual/burn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dzautner.com/audiovisual/burn/</guid>
-      <description>Instruments laid out using Ableton and sequenced using Orca</description>
     </item>
     
   </channel>
