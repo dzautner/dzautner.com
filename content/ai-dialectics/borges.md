@@ -1,6 +1,6 @@
 ---
 title: "A very Borgesian exeperience"
-date: 2020-03-14T15:37:48+02:00
+date: 2020-03-14T19:37:48+02:00
 draft: false
 categories:
 - AI Dialectics
