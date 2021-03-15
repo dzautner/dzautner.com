@@ -15,8 +15,8 @@ A short story By [GPT3-3](https://en.wikipedia.org/wiki/GPT-3), the digital ghos
 
 # Preface
 
-Unlike the intentionally characterless "academic papers" I produced previously with GPT-3 ([Lacanian Psychosis among pre-teen Tik-Tok users](/ai-dialectics/tiktok/), [The Effects of Artificial Intelligence on Modern Judaism](/ai-dialectics/ai-and-judaism/) (both of which ironically sound exactly like something DFW would make up as a footnote in Infinite Jest)) for the purpose of producing a convincing short story I might even enjoy myself I added guidance to GPT-3 to simulate DFW's writing style.
-It was as easy as starting the text with "A short story ny David Foster Wallace" at the beginning and GPT-3 took it from there. 
+Unlike the intentionally characterless "academic papers" I produced previously with GPT-3 ([Lacanian Psychosis among pre-teen Tik-Tok users](/ai-dialectics/tiktok/), [The Effects of Artificial Intelligence on Modern Judaism](/ai-dialectics/ai-and-judaism/) (both of which ironically sound exactly like something DFW would make up as a footnote in Infinite Jest)) for the purpose of producing a convincing short story I might even enjoy myself I added guidance for GPT-3 to simulate DFW's writing style.
+It was as easy as starting the text with "A short story by David Foster Wallace" at the beginning and GPT-3 took it from there. 
 
 # Chapter 1
 
