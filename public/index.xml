@@ -6,7 +6,16 @@
     <description>Recent content on ///dzautner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Mar 2021 15:37:48 +0200</lastBuildDate><atom:link href="https://dzautner.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Mar 2021 11:37:48 +0200</lastBuildDate><atom:link href="https://dzautner.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graph for Piano and Strings</title>
+      <link>https://dzautner.com/audiovisual/relative-graph/</link>
+      <pubDate>Mon, 29 Mar 2021 11:37:48 +0200</pubDate>
+      
+      <guid>https://dzautner.com/audiovisual/relative-graph/</guid>
+      <description>The composition itself is defined by only 2 notes, with the rest of the graph defining nothing but a relative transformation to the pitch and velocity of the incoming signal. This framework of composition allows for a lot of &amp;ldquo;happy accidents&amp;rdquo; and surprises - for example, the composition is not detrministic! The ending, at the top of the graph, is also defined by relative pitch, but as many nodes &amp;ldquo;drain&amp;rdquo; to that final node, you can never tell which pitch would the ending play at.</description>
+    </item>
+    
     <item>
       <title>Graph for Piano and Strings</title>
       <link>https://dzautner.com/audiovisual/graph/</link>
