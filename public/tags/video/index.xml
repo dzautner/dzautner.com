@@ -8,12 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Mar 2021 11:37:48 +0200</lastBuildDate><atom:link href="https://dzautner.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Graph for Piano and Strings</title>
+      <title>Emergence in Aperiodic Non-deterministic Compositions</title>
       <link>https://dzautner.com/audiovisual/relative-graph/</link>
       <pubDate>Mon, 29 Mar 2021 11:37:48 +0200</pubDate>
       
       <guid>https://dzautner.com/audiovisual/relative-graph/</guid>
-      <description>The composition itself is defined by only 2 notes, with the rest of the graph defining nothing but a relative transformation to the pitch and velocity of the incoming signal. This framework of composition allows for a lot of &amp;ldquo;happy accidents&amp;rdquo; and surprises - for example, the composition is not detrministic! The ending, at the top of the graph, is also defined by relative pitch, but as many nodes &amp;ldquo;drain&amp;rdquo; to that final node, you can never tell which pitch would the ending play at.</description>
+      <description>The directed graph in the video has information flowing through it as time passes. A vertex represents a change to the incoming signal - it either increases or decreases the pitch of the signal as it continues to the next vertex.
+A vertex with more than one edge leading to other vertices can have one of three modes to pass the signal forward:
+  Parallel - the signal will continue to all connected vertices at the same time.</description>
     </item>
     
     <item>
