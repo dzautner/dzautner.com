@@ -1,5 +1,5 @@
 ---
-title: "Emergence in Aperiodic Non-deterministic Compositions"
+title: "Emergent Themes in Aperiodic Non-deterministic Musical Compositions"
 date: 2021-03-29T11:37:48+02:00
 draft: false
 categories:
