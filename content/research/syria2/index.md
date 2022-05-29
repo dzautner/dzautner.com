@@ -9,6 +9,8 @@ tags:
 - Syria
 - Research
 - Data
+aliases:
+    - /the-most-documented-war-in-history-who-talks-about-it
 ---
 
 The discussion about the ongoing war in the context of geo-politics, modern warfare, and even morality is one that is as important as it is active.    

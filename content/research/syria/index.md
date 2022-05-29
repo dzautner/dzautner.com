@@ -9,6 +9,8 @@ tags:
 - Syria
 - Research
 - Data
+aliases:
+    - /the-most-docoumented-war-in-history-the-tow-program
 ---
 
 In mid 2012, The former head of Syria's chemical weapons, Major General Adnan Silu, declared that “All we need from NATO are two air attacks on the presidential palace to topple the regime and we will be able to control all the Syrian cities”.
