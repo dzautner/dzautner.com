@@ -6,44 +6,35 @@
     <description>Recent content in Video on ///dzautner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Mar 2021 11:37:48 +0200</lastBuildDate><atom:link href="https://dzautner.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Mar 2021 11:37:48 +0200</lastBuildDate>
+    <atom:link href="https://dzautner.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emergent Themes in Aperiodic Non-deterministic Musical Compositions</title>
       <link>https://dzautner.com/audiovisual/relative-graph/</link>
       <pubDate>Mon, 29 Mar 2021 11:37:48 +0200</pubDate>
-      
       <guid>https://dzautner.com/audiovisual/relative-graph/</guid>
-      <description>The directed graph in the video has information flowing through it as time passes. A vertex represents a change to the incoming signal - it either increases or decreases the pitch of the signal as it continues to the next vertex.
-A vertex with more than one edge leading to other vertices can have one of three modes to pass the signal forward:
-  Parallel - the signal will continue to all connected vertices at the same time.</description>
+      <description>The directed graph in the video has information flowing through it as time passes. A vertex represents a change to the incoming signal - it either increases or decreases the pitch of the signal as it continues to the next vertex.&#xA;A vertex with more than one edge leading to other vertices can have one of three modes to pass the signal forward:&#xA;Parallel - the signal will continue to all connected vertices at the same time.</description>
     </item>
-    
     <item>
       <title>Look at the Snow Falling</title>
       <link>https://dzautner.com/audiovisual/snow/</link>
       <pubDate>Sat, 30 Jan 2021 15:37:48 +0200</pubDate>
-      
       <guid>https://dzautner.com/audiovisual/snow/</guid>
       <description>Instruments laid out using Ableton and sequenced using Orca</description>
     </item>
-    
     <item>
       <title>Hoot</title>
       <link>https://dzautner.com/audiovisual/hoot/</link>
       <pubDate>Fri, 29 Jan 2021 15:37:48 +0200</pubDate>
-      
       <guid>https://dzautner.com/audiovisual/hoot/</guid>
       <description>Instruments laid out using Ableton and sequenced using Orca</description>
     </item>
-    
     <item>
       <title>Orca Techno Jam</title>
       <link>https://dzautner.com/audiovisual/orca-techno/</link>
       <pubDate>Fri, 29 Jan 2021 15:37:48 +0200</pubDate>
-      
       <guid>https://dzautner.com/audiovisual/orca-techno/</guid>
       <description>Techno jam using Orca</description>
     </item>
-    
   </channel>
 </rss>

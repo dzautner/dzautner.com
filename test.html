@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spiral Text Pattern</title>
+<style>
+  canvas {
+    border: 1px solid #000000;
+  }
+</style>
+</head>
+<body>
+<canvas id="textCanvas" width="800" height="800"></canvas>
+<script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        const canvas = document.getElementById('textCanvas');
+        const ctx = canvas.getContext('2d');
+        const text = 'programmed ';
+        const centerX = canvas.width / 2;
+        const centerY = canvas.height / 2;
+        const textSpacing = 10; // Space between each "programmed"
+        let maxRadius = Math.sqrt(centerX * centerX + centerY * centerY);
+        let waveOffset = 0; // This offset will create the animation effect
+      
+        // Function to draw radial lines
+        function drawLines() {
+          for (let i = 0; i < 360; i += 2) {
+            ctx.save();
+            ctx.beginPath();
+            ctx.translate(centerX, centerY);
+            ctx.moveTo(0, 0);
+            ctx.rotate(i * Math.PI / 180);
+            ctx.lineTo(0, -maxRadius);
+            ctx.strokeStyle = 'rgba(255, 215, 0, 0.8)';
+            ctx.stroke();
+            ctx.restore();
+          }
+        }
+      
+        // Function to draw animated wavy spiral text
+        function drawWavySpiral() {
+          let angle = 0;
+          let radius = 0;
+          ctx.fillStyle = 'rgba(255, 215, 0, 1)'; // Gold color
+          ctx.font = '16px Arial'; // Set the font
+      
+          while (radius < maxRadius) {
+            // The wavy effect now depends on both the angle and the waveOffset
+            let wavyRadius = radius + Math.sin(angle * 8 + waveOffset) * 20; // Waviness of the radius
+            let wavyAngle = angle; // You can also make the angle wavy if desired
+      
+            let x = centerX + wavyRadius * Math.cos(wavyAngle);
+            let y = centerY + wavyRadius * Math.sin(wavyAngle);
+      
+            ctx.save();
+            ctx.translate(x, y);
+            ctx.rotate(wavyAngle + Math.PI / 2);
+            ctx.fillText(text, 0, 0);
+            ctx.restore();
+      
+            let textWidth = ctx.measureText(text).width;
+            radius += textSpacing; // Adjust the spacing based on font size and canvas size
+            angle += textWidth / radius; // Adjust the angle to follow the spiral pattern
+          }
+        }
+      
+        // The animate function
+        function animate() {
+          ctx.clearRect(0, 0, canvas.width, canvas.height);
+          ctx.fillStyle = 'black';
+          ctx.fillRect(0, 0, canvas.width, canvas.height);
+          drawLines();
+          drawWavySpiral();
+      
+          // Increase the waveOffset to animate the wave
+          waveOffset += 0.05;
+          requestAnimationFrame(animate); // Recursively call animate for each frame
+        }
+      
+        animate(); // Start the animation
+      });
+      
+</script>
+</body>
+</html>

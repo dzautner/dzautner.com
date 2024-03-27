@@ -106,7 +106,7 @@ A small monetary unit  Li (/lī/) worth 1/(10^9) Zi is used for smaller transact
 <p>The network must first and foremost be a marketplace for distributed computing.
 The blockchain ledger is a means to achieve that, not the end itself. As such, all the monetary incentives in the system must orient around computation and not the secondary economy, which will rise from the existence of a new tradable good named Zi.</p>
 <h3 id="mining">Mining</h3>
-<p>Mining a new block is the process of purposefully manipulating an otherwise empty field called &ldquo;nonce&rdquo; in the block until the block&rsquo;s hash follows the currently defined difficulty<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
+<p>Mining a new block is the process of purposefully manipulating an otherwise empty field called &ldquo;nonce&rdquo; in the block until the block&rsquo;s hash follows the currently defined difficulty<sup id="fnref1:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
 The block&rsquo;s hash follows the current difficulty levels if the hash string starts with D amount of trailing zeros where D is the current difficulty.</p>
 <p>To avoid inconsistent mining times, a minimum of T minutes between the mining of two consecutive blocks is placed. Any block mined before T minutes has passed since mining the last block will be rejected by the network as an invalid block.</p>
 <h3 id="mining-difficulty">Mining Difficulty</h3>
@@ -246,7 +246,7 @@ The contract definition transaction must include:</p>
 <li>Price per MCU</li>
 <li>MCU Limit - above which the Bidder stops accepting results.</li>
 <li>A fee for the miners to include the contract in a block.</li>
-<li>Metadata in the form of a fixed size field containing all metadata required to operate the contract. Ideally, this field will be an IPFS<sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup> URI.</li>
+<li>Metadata in the form of a fixed size field containing all metadata required to operate the contract. Ideally, this field will be an IPFS<sup id="fnref1:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup> URI.</li>
 <li>Validation - a boolean field. When true, the validation and collection will be delegated to a Validator.</li>
 <li>Validation Fee - the fee the Bidder is willing to pay for validation per MCU.</li>
 </ul>
@@ -341,40 +341,38 @@ If not, the appeal fee will also move to the shared network fund.</p>
 	src="https://cdn.jsdelivr.net/npm/katex@0.10.0-rc.1/dist/katex.min.js"
 	integrity="sha384-483A6DwYfKeDa0Q52fJmxFXkcPCFfnXMoXblOkJ4JcA8zATN6Tm78UNL72AKk+0O"
 	crossorigin="anonymous"
-></script><blockquote>
-</blockquote>
-<section class="footnotes" role="doc-endnotes">
+></script><div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1" role="doc-endnote">
-<p>S. Nakamoto &ldquo;Bitcoin: A Peer-to-Peer Electronic Cash System&rdquo; 2008&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:1">
+<p>S. Nakamoto &ldquo;Bitcoin: A Peer-to-Peer Electronic Cash System&rdquo; 2008&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2" role="doc-endnote">
+<li id="fn:2">
 <p>A. Serapiglia, C. Serapiglia, J. McIntyre <a href="https://files.eric.ed.gov/fulltext/EJ1137148.pdf">&ldquo;Cryptocurrencies: Core Information Technology and Information System Fundamentals Enabling Currency Without Borders&rdquo;</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:3" role="doc-endnote">
+<li id="fn:3">
 <p>_  <a href="http://www.asahi.com/sp/ajw/articles/13938448"><em>No contest: Japan&rsquo;s Fugaku again fastest supercomputer</em></a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:4" role="doc-endnote">
+<li id="fn:4">
 <p>Anne Holohan, Anurag Garg, Collaboration Online: the Example of Distributed Computing, <em>Journal of Computer-Mediated Communication</em>, Volume 10, Issue 4, 1 July 2005, JCMC10415, <a href="https://doi.org/10.1111/j.1083-6101.2005.tb00279.x">https://doi.org/10.1111/j.1083-6101.2005.tb00279.x</a>&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:5" role="doc-endnote">
+<li id="fn:5">
 <p>Victoria A. Shaffer, Hal R. Arkes, Preference reversals in evaluations of cash versus non-cash incentives, Journal of Economic Psychology, Volume 30, Issue 6, 2009, Pages 859-872, ISSN 0167-4870,&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:6" role="doc-endnote">
+<li id="fn:6">
 <p>Jiang, Qingye &amp; Lee, Young &amp; Zomaya, Albert. (2016). Price Elasticity in the Enterprise Computing Resource Market. IEEE Cloud Computing. 3. 24-31. 10.1109/MCC.2016.14.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:7" role="doc-endnote">
-<p>Juan Benet. (2014). IPFS - Content Addressed, Versioned, P2P File System.&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:7">
+<p>Juan Benet. (2014). IPFS - Content Addressed, Versioned, P2P File System.&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:8" role="doc-endnote">
+<li id="fn:8">
 <p>Riemann Surfaces and Related Topics: Proceedings of the 1978 Stony Brook Conference <a href="https://en.wikipedia.org/wiki/Bernard_Maskit" title="Bernard Maskit">Bernard Maskit</a>. Princeton University Press.&#160;<a href="#fnref:8" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:9" role="doc-endnote">
+<li id="fn:9">
 <p>В. И. Левенштейн (1965). <a href="http://mi.mathnet.ru/dan31411">Двоичные коды с исправлением выпадений, вставок и замещений символов</a> [Binary codes capable of correcting deletions, insertions, and reversals]. <em>Доклады Академии Наук СССР</em> (in Russian). <strong>163</strong> (4): 845–848. Appeared in English as: Levenshtein, Vladimir I. (February 1966). &ldquo;Binary codes capable of correcting deletions, insertions, and reversals&rdquo;. <em>Soviet Physics Doklady</em>. <strong>10</strong> (8): 707–710.&#160;<a href="#fnref:9" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</section>
+</div>
 
 
         
