@@ -4,7 +4,7 @@ title: "Trauma Dissociation and Life Focus: A Structural Dissociation Theory Per
 date: 2024-03-05
 draft: false
 categories:
-- Psychology
+- Research
 tags:
 - Trauma
 - Dissociation
